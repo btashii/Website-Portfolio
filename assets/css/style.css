@@ -1236,3 +1236,13 @@ section {
   position: relative;
   top: 15px;
 }
+
+#json {
+  max-width:70%;
+  height:auto;
+}
+
+#unity {
+  max-width:70%;
+  height:auto;
+}

@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p span {
-  color: #45505b;
+  color: #0563bb;
   letter-spacing: 1px;
 }
 
@@ -1226,7 +1226,7 @@ section {
 }
 
 #catia {
-  max-width:50%;
+  max-width:40%;
   height:auto;
   position: relative;
   top: 10px
@@ -1242,6 +1242,8 @@ section {
 #json {
   max-width:70%;
   height:auto;
+  position: relative;
+  top: 10px
 }
 
 #unity {
